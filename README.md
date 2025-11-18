@@ -14,8 +14,3 @@ The script also includes a **real-time message classifier** where you can input 
 
 ---
 
-## 🚀 How to Run
-
-### 1. Install dependencies
-```bash
-pip install -r requirements.txt
